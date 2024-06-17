@@ -1,3 +1,4 @@
+# Inam_Yadav_Datahack
 # Datahack_Hackathon_by_IIT_Guwahati_GFG_24
 This repository is for the submission for the Hackathon by GeeksForGeeks under the Summer Analytics course from IIT-G '24.
 
@@ -7,7 +8,7 @@ Our goal is to predict how likely individuals are to receive their xyz and seaso
 
 
 ## Overview
-For this problem, I have used Randomforest Classifier Model and Performance have evaluated according to the area under the receiver operating
+To predict probabilities, I have used Randomforest Classifier Model and Performance have evaluated according to the area under the receiver operating
 characteristic curve (ROC AUC) for each of the two target variables. 
 ROC AUC scores have been calculated on the validation set and are being displayed in the output which can be seen in the Data_Hackathon.ipynb file.
 #### The final result has been stored in the "predictedAnswer.csv".
