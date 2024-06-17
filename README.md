@@ -1,4 +1,4 @@
-# InamYadav_Datahack
+# Datahack_Hackathon_by_IIT_Guwahati_GFG_24
 This repository is for the submission for the Hackathon by GeeksForGeeks under the Summer Analytics course from IIT-G '24.
 
 
