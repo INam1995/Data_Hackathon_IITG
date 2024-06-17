@@ -44,5 +44,6 @@ ROC AUC scores have been calculated on the validation set and are being displaye
 #### 2. training_set_labels.csv
 #### 3. training_set_features.csv
 
-
+## More information about Project and Dataset :
+- `Problem description.pdf`
 
