@@ -21,7 +21,7 @@ ROC AUC scores have been calculated on the validation set and are being displaye
 ###### ii) Data Normalization
 #### 3. Building the Random Forest Classifier Model
 ###### i) Train the model
-###### ii) Prediction for validation set & for testing data
+###### ii) Predict Probabilities for testing data
 ###### iii) Calculation of ROC AUC Scores 
 #### 4. Saving predictions into final dataframe
 
